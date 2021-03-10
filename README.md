@@ -13,3 +13,7 @@ A countdown timer in python
 I made this inspired by Brian Fediuk on Youtube: 
 
 - https://www.youtube.com/watch?v=KZkQFab3NnA
+
+---
+
+Édi Ferreira
